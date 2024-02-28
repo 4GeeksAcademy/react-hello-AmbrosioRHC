@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.jumboCarta{
+    display: flex;
+    margin: auto;
+    padding: auto;
+    }
